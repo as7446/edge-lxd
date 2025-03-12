@@ -4,7 +4,7 @@ server:
   hostname: sh-ecs-hostname-1
 
 rabbitmq:
-  ip: "117.72.82.7"
+  ip: ""
   port: 5672
   username: "fuxuhao"
   password: "123456"
