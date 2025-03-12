@@ -1,0 +1,12 @@
+server:
+  addr: "0.0.0.0"
+  port: 8080
+  hostname: sh-ecs-hostname-1
+
+rabbitmq:
+  ip: "117.72.82.7"
+  port: 5672
+  username: "fuxuhao"
+  password: "123456"
+  vhost: "/test"
+  retry: 3
